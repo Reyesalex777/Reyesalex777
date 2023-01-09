@@ -13,8 +13,7 @@
 
 </div>
 
-"Live to code, code to live, or I think it went somthing like that"
-  -Alex( on a good saturday night )
+"Live to code, code to live, or I think it went somthing like that" <br /> -Alex( on a good saturday night )
 
 ## Experienced in 💻:
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
