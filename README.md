@@ -18,18 +18,9 @@
   </p>
 
 </div>
-## Technologies I use 💻:
- ## Good fundamentals in 💻:
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![Github](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![VSCode](https://img.shields.io/badge/-VS_Code-05122A?style=flat&logo=visualstudio)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
-
 
 "Live to code, code to live, or I think it went somthing like that" <br />
-&nbsp;&nbsp;&nbsp;&nbsp;-Alex( on a good saturday night )
+&nbsp;&nbsp;&nbsp;&nbsp;-Alex
 
 ## Good fundamentals in 💻:
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
@@ -38,7 +29,11 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
-
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello)
+![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)
 <!--
 **Reyesalex777/Reyesalex777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
