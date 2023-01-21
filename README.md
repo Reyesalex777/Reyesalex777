@@ -21,27 +21,28 @@
 
 <div>
   <h3>Technologies</h3>
-  ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white
-  https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
-  https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
-  https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
-  https://img.shields.io/badge/Express.js-404D59?style=for-the-badge
-  https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-  https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white
-  https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
-  https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-  https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-  https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white
-  https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white
-  https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
-  https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+  ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)
+  ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+  ![Node](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
+  ![CSS3](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
+  ![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello)
+  ![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)
+  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+  ![Github](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+  ![VSCode](https://img.shields.io/badge/-VS_Code-05122A?style=flat&logo=visualstudio)
+  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+  ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+  ![Materialize CSS](https://img.shields.io/badge/-Materialize_CSS-05122A?style=flat&logo=materialdesign)
 </div>
 
 "Live to code, code to live, or I think it went somthing like that" <br />
 &nbsp;&nbsp;&nbsp;&nbsp;-Alex( on a good saturday night )
 
-## Experienced in 💻:
+## Good fundamentals in 💻:
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![VSCode](https://img.shields.io/badge/-VS_Code-05122A?style=flat&logo=visualstudio)
