@@ -10,13 +10,17 @@
 ##### Alejandro Reyes
 
 [![GitHub Badge](https://img.shields.io/badge/-@reyesalex777-junglegreen?style=flat&logo=GitHub&logoColor=black)](https://github.com/reyesalex777)
+  
+  <p>
+    Hi, my name is Alex Reyes.
+  Daytime Web Dev, night time gamer.
+   I would love to learn more!
+  </p>
 
 </div>
 
 "Live to code, code to live, or I think it went somthing like that" <br />
 &nbsp;&nbsp;&nbsp;&nbsp;-Alex( on a good saturday night )
-
-Update: Currently taking time off for mental health. plan to be back soon
 
 ## Experienced in 💻:
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
