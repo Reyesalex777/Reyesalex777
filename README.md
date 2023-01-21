@@ -4,7 +4,7 @@
 
 </div>
 
-### Hi there 👋
+### Hi there 👋 My name is Alex, I got into coding when I realiezed people made the games on that website we all used at school to play games for free, I didn't know where to start, then my neighbor told me how he got into the tech industry by attending a bootcamp. I was sold
 <div id="description" align="center">
 
 ##### Alejandro Reyes
@@ -34,6 +34,11 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 ![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello)
 ![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Node](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![Semantic UI React](https://img.shields.io/badge/-Semantic%20UI%20React-05122A?style=flat&logo=semanticuireact)
 <!--
 **Reyesalex777/Reyesalex777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
