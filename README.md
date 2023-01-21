@@ -7,16 +7,16 @@
 ### Hi there 👋 <br />
 &nbsp;&nbsp;&nbsp;&nbsp; My name is Alex, I got into coding when I realiezed people made the games on that website we all used at school to play games for free, I didn't know where to start, then my neighbor told me how he got into the tech industry by attending a bootcamp. I was sold
 <div id="description" align="center">
-
-##### Alejandro Reyes
-
-[![GitHub Badge](https://img.shields.io/badge/-@reyesalex777-junglegreen?style=flat&logo=GitHub&logoColor=black)](https://github.com/reyesalex777)
-  
   <p>
     Hi, my name is Alex Reyes.
   Daytime Web Dev, night time gamer.
    I would love to learn more!
   </p>
+  
+  ##### Alejandro Reyes
+
+[![GitHub Badge](https://img.shields.io/badge/-@reyesalex777-junglegreen?style=flat&logo=GitHub&logoColor=black)](https://github.com/reyesalex777)
+  
 
 </div>
 
