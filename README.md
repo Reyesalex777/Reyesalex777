@@ -19,6 +19,25 @@
 
 </div>
 
+<div>
+  <h3>Technologies</h3>
+  https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+  https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white
+  https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+  https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
+  https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
+  https://img.shields.io/badge/Express.js-404D59?style=for-the-badge
+  https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+  https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white
+  https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
+  https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+  https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
+  https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white
+  https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white
+  https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+  https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
+</div>
+
 "Live to code, code to live, or I think it went somthing like that" <br />
 &nbsp;&nbsp;&nbsp;&nbsp;-Alex( on a good saturday night )
 
