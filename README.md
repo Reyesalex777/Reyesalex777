@@ -18,9 +18,7 @@
   </p>
 
 </div>
-
-<div>
-  <h3>Technologies</h3>
+## Technologies I use 💻:
   ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
   ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)
   ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
@@ -37,7 +35,6 @@
   ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
   ![Materialize CSS](https://img.shields.io/badge/-Materialize_CSS-05122A?style=flat&logo=materialdesign)
-</div>
 
 "Live to code, code to live, or I think it went somthing like that" <br />
 &nbsp;&nbsp;&nbsp;&nbsp;-Alex( on a good saturday night )
