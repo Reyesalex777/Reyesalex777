@@ -4,15 +4,15 @@
 
 </div>
 
-### Hi there 👋 <br />
-&nbsp;&nbsp;&nbsp;&nbsp; My name is Alex, here's a story about how I learned how ugly webpages are; when I was a child, i think about 10 or 11 I got into coding when i refreshed a webpage, i think it was craigslist, anyway when i saw how it loaded into blue links and just text I was like "this is ugly" after it loaded the CSS it was easier to navigate. For a long time I didn't know where to start, one day after going out in search for better opportunited I discovered online recources and communities that are built by bootcamps and schools that peak peoples drive for learning code. devs are one of the most diverse skillset in the world. I love life knowing Devs help ease life.
+### <br /> 👋 <br />
+&nbsp;&nbsp;&nbsp;&nbsp; I'm Alex, I really just listen to the wind and let it take me where I need to go.  oh also.. I code, just a bit.
 <div id="description" align="center">
   
   <p>
-I love to game too when I'm not looking for trouble 😏
+    I'fn you want to code with me just email me <a href="
   </p>
   
-  ##### Alejandro Reyes
+  ##### Reyes
 
 [![GitHub Badge](https://img.shields.io/badge/-@reyesalex777-junglegreen?style=flat&logo=GitHub&logoColor=black)](https://github.com/reyesalex777)
   
