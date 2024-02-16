@@ -9,7 +9,7 @@
 <div id="description" align="center">
   
   <p>
-    If you want to code with me just email me <a href="mailto:reyesalex777@gmail.com">Here</a>
+    If you want to code with me just email me <a href="mailto:reyesalex777@gmail.com">Reyesalex777@gmail.com</a>
   </p>
   
   ##### Reyes
