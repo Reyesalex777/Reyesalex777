@@ -5,11 +5,11 @@
 </div>
 
 ### <br /> 👋 <br />
-&nbsp;&nbsp;&nbsp;&nbsp; I'm Alex, I really just listen to the wind and let it take me where I need to go.  oh also.. I code, just a bit.
+&nbsp;&nbsp;&nbsp;&nbsp; I'm my name is Alejandro, Software developer. I am all about shining light on, encouraging, inspiring, and spreading love to all humankind and living creatures.
 <div id="description" align="center">
   
   <p>
-    I'fn you want to code with me just email me <a href="
+    If you want to code with me just email me <a href="mailto:reyesalex777@gmail.com">Here</a>
   </p>
   
   ##### Reyes
